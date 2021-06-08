@@ -1,0 +1,49 @@
+head {color: #fc0388;}
+body {
+    padding-left: 11em;
+    font-family: Georgia, "Times New Roman",
+          Times, serif;
+    color: #4a03fc;
+    background-image: url(Users\эля\Desktop\moya-stranica\1e54e141bfcc5d31d9fcab5df40a94ca.jpg)
+ }
+  ul.navbar {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+    position: absolute;
+    top: 2em;
+    left: 1em;
+    width: 9em }
+  h1,
+  form { color: #fc0388;
+    font-family: Helvetica, Geneva, Arial,
+          SunSans-Regular, sans-serif }
+ ul.navbar li {
+    background: pink;
+    margin: 0.5em 0;
+    padding: 0.3em;
+    border-right: 1em solid black }
+  ul.navbar a {
+    text-decoration: none }
+  a:link {
+    color: #7932a8 }
+  a:visited {
+    color: purple }
+address {
+    margin-top: 1em;
+    padding-top: 1em;
+    border-top: thin dotted }
+div.figure {
+  float: right;
+  width: 90%;
+  border: thin silver solid;
+  margin: 0,2em;
+  padding: 0,2em;
+  text-align: center;
+  font-style: italic;
+  font-size: smaller;
+  text-indent: 0;
+}
+img.scaled {
+  width: 100%;
+}
